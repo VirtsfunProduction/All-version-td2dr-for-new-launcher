@@ -1,42 +1,32 @@
-[
-
-  {
-    "id": "v206"
-    "name": "Last beta Remake"
-    "description": "last beta before the release"
-    "url": "https://github.com/VirtsfunProduction/All-version-td2dr-for-new-launcher/releases/download/versions/disaster206.zip"
+{
+  "v206": {
+    "name": "Last beta Remake",
+    "description": "last beta before the release",
+    "download_url": "https://github.com/VirtsfunProduction/All-version-td2dr-for-new-launcher/releases/download/versions/disaster206.zip",
+    "exe_name": "Sonicexe The Disaster 2D Remake.exe"
+  },
+  "v100": {
+    "name": "Sonic Disaster: Remake v100 (old realese)",
+    "description": "The very first release",
+    "download_url": "https://github.com/VirtsfunProduction/All-version-td2dr-for-new-launcher/releases/download/versions/100.zip",
+    "exe_name": "Sonicexe The Disaster 2D Remake.exe"
+  },
+  "v1013": {
+    "name": "beta v1013",
+    "description": "New beta before the new release",
+    "download_url": "https://github.com/VirtsfunProduction/All-version-td2dr-for-new-launcher/releases/download/versions/disaster1013.zip",
+    "exe_name": "Sonicexe The Disaster 2D Remake.exe"
+  },
+  "v1014": {
+    "name": "beta v1014",
+    "description": "last beta before the release",
+    "download_url": "https://github.com/VirtsfunProduction/All-version-td2dr-for-new-launcher/releases/download/versions/disaster1014.zip",
+    "exe_name": "Sonicexe The Disaster 2D Remake.exe"
+  },
+  "v1101(110)": {
+    "name": "Last Realse v110",
+    "description": "Latest release",
+    "download_url": "https://github.com/VirtsfunProduction/All-version-td2dr-for-new-launcher/releases/download/versions/sonic.exe-td2d-v110.zip",
     "exe_name": "Sonicexe The Disaster 2D Remake.exe"
   }
-  {
-    "id": "v100",
-    "name": "Sonic Disaster: Remake v100 (old realese)"
-    "description": "The very first release"
-    "url": "https://github.com/VirtsfunProduction/All-version-td2dr-for-new-launcher/releases/download/versions/100.zip"
-    "exe_name": "Sonicexe The Disaster 2D Remake.exe"
-  }
-  {
-    "id": "v1013"
-    "name": "beta v1013"
-    "description": "New beta before the new release"
-    "url": "https://github.com/VirtsfunProduction/All-version-td2dr-for-new-launcher/releases/download/versions/disaster1013.zip"
-    "exe_name": "Sonicexe The Disaster 2D Remake.exe"
-  }
-  {
-    "id": "v1014"
-    "name": "beta v1014"
-    "description": "last beta before the release"
-    "url": "https://github.com/VirtsfunProduction/All-version-td2dr-for-new-launcher/releases/download/versions/disaster1014.zip"
-    "exe_name": "Sonicexe The Disaster 2D Remake.exe"
-  }
-  {
-    "id": "v1101(110)"
-    "name": "Last Realse v110"
-    "description": "Latest release"
-    "url": "https://github.com/VirtsfunProduction/All-version-td2dr-for-new-launcher/releases/download/versions/sonic.exe-td2d-v110.zip"
-    "exe_name": "Sonicexe The Disaster 2D Remake.exe"
-  }
-]
-
-
-
-
+}
