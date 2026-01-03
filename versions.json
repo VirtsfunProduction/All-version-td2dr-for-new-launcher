@@ -1,4 +1,18 @@
 {
+  "v.prototype": {
+    "name": "Last beta Remake",
+    "description": "first prototype",
+    "download_url": "https://github.com/VirtsfunProduction/All-version-td2dr-for-new-launcher/releases/download/versions/diz0.zip",
+    "exe_name": "Disnaz.exe"
+  },
+{
+  "v.prototype2": {
+    "name": "Last beta Remake",
+    "description": "2 beta prototype",
+    "download_url": "https://github.com/VirtsfunProduction/All-version-td2dr-for-new-launcher/releases/download/versions/disaster000.zip",
+    "exe_name": "Sonicexe The Disaster 2D Remake.exe"
+  },
+{
   "v206": {
     "name": "Last beta Remake",
     "description": "last beta before the release",
@@ -30,3 +44,4 @@
     "exe_name": "Sonicexe The Disaster 2D Remake.exe"
   }
 }
+
